@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-server
-        image: leesujeong/server:11
+        image: leesujeong/server:12
